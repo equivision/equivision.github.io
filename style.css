@@ -35,6 +35,11 @@ a:hover {color: #419d78;}
 .row a {text-decoration: none;}
 li {font-size: 12pt;}
 
+.author {
+    color: #c08497;
+    font-style: italic;
+}
+
 /* Top navigation bar */
 #navbar-top {
     position: sticky;
