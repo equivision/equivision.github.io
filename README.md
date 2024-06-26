@@ -1,2 +1,2 @@
-# geometric-robot-learning.github.io
-Website for Workshop on Geometric Robot Learning
+# equivision.github.io
+Website for Workshop on Equivariant Vision: From Theory to Practice
