@@ -1,6 +1,6 @@
 body {
-    background-color: #ffdbb5;
-    color: #1a1a1a;
+    background-color: #586a6a;
+    color: #c6c6c6;
     line-height: 1.8em;
     -moz-hyphens: auto;
     -webkit-hyphens: auto;
@@ -30,13 +30,13 @@ u {
     font-weight: bold;
 }
 
-a { color: #419d78; }
-a:hover {color: #419d78;}
+a { color: #eddea4; }
+a:hover {color: #eddea4;}
 .row a {text-decoration: none;}
 li {font-size: 12pt;}
 
 .author {
-    color: #c08497;
+    color: #b79fad;
     font-style: italic;
 }
 
@@ -50,24 +50,24 @@ li {font-size: 12pt;}
     font-weight: bold;
 }
 .navbar {
-    border-bottom: 12px solid #c08497;
-    background-color: #2d3047;
+    border-bottom: 12px solid #b79fad;
+    background-color: #4c212a;
 }
 .navbar-top a {
-    color: #419d78;
+    color: #eddea4;
 }
 .navbar a:hover {
-    color: #e0a458;
+    color: #dad4ef;
 }
 
-.nav-link {color: #e0a458;}
+.nav-link {color: #dad4ef;}
 .nav-link.active {
-    color: #ffdbb5;
-    background: #c08497;
+    color: #586a6a;
+    background: #b79fad;
 }
 .nav-item li.active>a, .nav-item a:hover, .nav-item a:focus, .nav-itme li.open>a{
-    color: #ffdbb5;
-    background: #c08497 !important;
+    color: #586a6a;
+    background: #b79fad !important;
     outline: 0;
 }
 
@@ -91,7 +91,7 @@ li {font-size: 12pt;}
 }
 .section > .title {
     font-size: 18pt;
-    color: #414446;
+    color: #e5e5e5;
     clear: both;
     padding-bottom: 10px;
     border-bottom: 2px solid #999;
@@ -104,11 +104,11 @@ li {font-size: 12pt;}
     max-width: 900px;
     margin: 0 auto;
     padding: 40px 4px 0px 4px;
-    background-color: #ffdbb5;
+    background-color: #586a6a;
 }
 .jumbotron > .title {
     font-size: 18pt;
-    color: #414446;
+    color: #e5e5e5;
     clear: both;
     text-align: center;
 }
@@ -181,7 +181,7 @@ tr {
 }
 
 .table-head {
-    background-color: #2d3047;
+    background-color: #4c212a;
     color: #dcdcdc;
 }
 
@@ -220,8 +220,8 @@ tr {
 
 .icon {
     display: inline-block;
-    background: #e0a458;
-    color: #2d3047;
+    background: #dad4ef;
+    color: #4c212a;
     padding: 10px;
     cursor: pointer;
     border-radius: 5px;
@@ -230,8 +230,8 @@ tr {
 }
 
 .icon:hover {
-    background: #c08497;
-    color: #419d78;
+    background: #b79fad;
+    color: #eddea4;
 }
 
 .col-button {
@@ -239,10 +239,10 @@ tr {
 }
 
 .btn {
-    background: #2d3047;
+    background: #4c212a;
     border: 0pt;
 }
 .btn:hover {
-    background: #c08497;
+    background: #b79fad;
     border: 0pt;
 }
